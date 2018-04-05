@@ -1,0 +1,8 @@
+Librarie: https://pypi.python.org/pypi/pyproj?
+
+Documentation pyproj:
+---------------------
+https://jswhit.github.io/pyproj/ 
+
+Nous recommandons l'usage de ligne proj4, voir # use proj4 string
+Ligne de commande proj4, voir doc proj4

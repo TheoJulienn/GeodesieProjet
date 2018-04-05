@@ -1,0 +1,15 @@
+Exemple de ligne de commande rtklib : 
+
+ex : rnx2rtkp  -ti 30 BASS085Y.18o opmt0850.18o brdc0850.18n igr19941.sp3 -k opmt0850_BASS085Y.conf -o opmt0850_BASS085Y.pos 
+
+rnx2rtkp  -ti 30 RinexRover RinexBase RinexBrdc Sp3 -k Fichierconf -o FichierPos
+ 
+- rnx2rtkp : executable
+- RinexRover : fichier rinex du point à déterminer
+- RinexBase : fichier rinex de la base
+- RinexBrdc : ephemerides radiodiffusées
+- Sp3 : éphémérides précises
+- Fichierconf : fichier de configuration du calcul (à fabriquer à partir de l'interface graphique de rtkpost)
+- FichierPos : fichier de sortie
+
+plus d'info p93 du manuel rtklib
