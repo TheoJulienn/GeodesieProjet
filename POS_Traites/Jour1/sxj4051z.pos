@@ -1,7 +1,7 @@
 % program   : RTKPOST ver.2.4.2
-% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\reseauGPS\20032018\sxj4051z.18o
-% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\reseauGPS\20032018\Jour1\sxj0051z.pos
-% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\reseauGPS\20032018\brdc051z.18n
+% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\GPS\J1\sxj0051z.18o
+% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\GPS\J1\sxj4051z.18o
+% inp file  : D:\Geodesie-projet\rtklib_2.4.2\GeodesieProjet\GPS\J1\brdc051z.18n
 % obs start : 2018/02/20 08:00:00.0 GPST (week1989 201600.0s)
 % obs end   : 2018/02/20 16:59:30.0 GPST (week1989 233970.0s)
 % pos mode  : static
@@ -17,8 +17,8 @@
 % val thres : 3.0
 % antenna1  : *                     ( 0.0000  0.0000  0.0000)
 % antenna2  : *                     ( 0.0000  0.0000  0.0000)
-% ref pos   :  4201792.2950    177945.2380   4779286.6850
+% ref pos   :  4190294.5643    201223.8646   4788454.7188
 %
 % (x/y/z-ecef=WGS84,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
 %  GPST                      x-ecef(m)      y-ecef(m)      z-ecef(m)   Q  ns   sdx(m)   sdy(m)   sdz(m)  sdxy(m)  sdyz(m)  sdzx(m) age(s)  ratio
-2018/02/20 08:00:00.000   4190291.8428    201224.1267   4788453.4760   5   9   2.5362   1.1625   3.2106   0.3446   0.9312   2.1520   0.00    0.0
+2018/02/20 08:00:00.000   4195020.6719    218423.4197   4783653.8550   1   9   0.0081   0.0035   0.0079   0.0015   0.0024   0.0061   0.00    5.9
